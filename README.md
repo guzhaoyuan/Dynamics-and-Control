@@ -10,14 +10,16 @@ I attach all the material I find useful for my thinking. Though some of those ar
 
 - Euler Lagrange Dynamics
 - Newton Euler Dynamics
-- LQR
+- Forward Dynamics
+- (LQR) Linear Quadratic Regulator
 
 # Topics not yet ready
 
-- MPC
+- (MPC) Model Predictive Control
 - System Identification
 - Optimal Control
 - Impedance Control
+- Admittance Control
 - Feedforward Control
 
 # Demos
