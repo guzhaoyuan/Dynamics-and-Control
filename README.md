@@ -25,3 +25,6 @@ I attach all the material I find useful for my thinking. Though some of those ar
 # Demos
 
 - [ ] Lagrange Equation
+
+# TODO
+- [ ] FD notes

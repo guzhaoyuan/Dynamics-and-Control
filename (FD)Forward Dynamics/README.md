@@ -1,8 +1,8 @@
 # Forward Dynamics
 
-Forward Dynamics is usually used in simulation. It is relatively hard to compute, and roboticist do not use that quite often.
+Forward Dynamics is usually used in simulation. It is relatively hard to compute, and roboticist do not use it that often.
 
-**Modern Robotics** has introduced a naive way of computing Mass matrix and bias force thus get the accelatation.
+**Modern Robotics** has introduced a naive way of computing Mass matrix and bias force thus get the accelaration.
 
 Roy Featherstone's **Rigid Body Dynamics Algorithm** has introduced some very good algorithms. They are **Inertia Matrix Method**, **Composite Rigid Body Algorithm** and **Articulated Body Algorithm**.
 
