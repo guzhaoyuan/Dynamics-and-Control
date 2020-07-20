@@ -4,7 +4,7 @@ MPC, LQR, System Identification, etc.
 
 This is the repo of notes recording my learning trajectory of Dynamics and Control.
 
-I attach all the material I find useful for my thinking. Though some of those are in chinese.
+I attach all the material I find useful for my thinking. Though some of those are in Chinese.
 
 # Topics Included
 
@@ -12,19 +12,16 @@ I attach all the material I find useful for my thinking. Though some of those ar
 - Newton Euler Dynamics
 - Forward Dynamics
 - (LQR) Linear Quadratic Regulator
+- (iLQR) iterative Linear Quadratic Regulator
 
 # Topics not yet ready
 
 - (MPC) Model Predictive Control
 - System Identification
-- Optimal Control
 - Impedance Control
 - Admittance Control
-- Feedforward Control
-
-# Demos
-
-- [ ] Lagrange Equation
+- QP Controller
+- (PFL) Partial Feedback Linearization
 
 # TODO
 - [ ] FD notes
