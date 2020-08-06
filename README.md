@@ -21,7 +21,7 @@ I attach all the material I find useful for my thinking. Though some of those ar
 - Impedance Control
 - Admittance Control
 - QP Controller
-- (PFL) Partial Feedback Linearization
+- (PFL) Partial Feedback Linearization / Input-Output Linearization
 
 # TODO
 - [ ] FD notes
